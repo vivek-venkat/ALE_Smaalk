@@ -3,7 +3,7 @@ ALE_Smaalk
 
 Assembly Language Emulator (ALE) built in SmallTalk
 
-Simulate a rudimentary assembler using the following hardward specifications.
+Simulate a rudimentary assembler using the following hardware specifications.
 
 The computer hardware consists of the following components:
 1. Data memory. An 8-bit, byte-addressable memory (RAM) for data.
